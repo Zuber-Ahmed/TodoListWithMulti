@@ -1,0 +1,38 @@
+.main{
+    float: left;
+    height: 400px;
+    width: 350px;
+    /* text-decoration: none; */
+    padding: 5px;
+    margin: 10px;
+    text-align:left;
+}
+.main02{
+    background-color: black;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    text-decoration: none;
+     
+}
+.Main03{
+    text-align: center;
+}
+.main05{
+    margin: 10px;
+    padding: 10px;
+}
+.main06{
+    text-align: center;
+}
+.main6k1{
+    margin-left: 310px;
+    height: 70px;
+    width: 900px;
+    border: solid 1px;
+}
+.main6k2{
+    text-align: center;
+    size: 40px;
+}
+ 
