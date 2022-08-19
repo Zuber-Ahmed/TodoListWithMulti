@@ -59,7 +59,7 @@ export const ItemTaskList2 = ({ item,handleForward2,id,handleDelet2,handleBack }
                 <CardContent
                   style={{ display: "flex", justifyContent: "space-between" }}
                 >
-                  <ArrowBackIosNew onClick={()=>handleBack(item,id)} />
+                  <ArrowBackIosNew onClick={()=>handleBack(item,id)} style={{ cursor: "pointer" }} />
                   <DeleteForeverIcon onClick={()=>handleDelet2(id)} style={{ cursor: "pointer" }}/>
                   <ArrowForwardIos
                     onClick={()=>handleForward2(item,id)}
