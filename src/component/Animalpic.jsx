@@ -20,6 +20,7 @@ export const Animalpic = () => {
                 className="img"
                 width={250}
                 height={200}
+                alt="animal"
               />
             </CardContent>
           </Card>
